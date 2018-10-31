@@ -1,1 +1,1 @@
-zappcamp.githup.io
+zappcamp.github.io
