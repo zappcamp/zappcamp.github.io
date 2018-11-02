@@ -1,0 +1,35 @@
+body {
+  color: #FFF;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: .9em;
+  line-height: 1.4em;
+  background: url(../images/background-1190.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+a, a:active, a:hover {
+  color: #336666;
+}
+
+.centered {
+  margin: 0px auto;
+  width: 1228px;
+  text-align: center;
+  margin-top: 500px;
+  font-size: 1.3em;
+}
+
+.logo {
+  margin-bottom: 20px;
+}
+
+.card {
+  padding: 15px;
+  width: 300px;
+  margin: 0px auto;
+  background-color: #f5f5f585;
+  color: black;
+}
+
